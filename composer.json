@@ -1,0 +1,17 @@
+{
+    "name": "brabhold/basic_brabhold",
+    "type": "drupal-module",
+    "description": "This is a basic drupal theme based on bootstrap 5",
+    "homepage": "https://github.com/brabhold/basic_brabhold",
+    "authors": [
+        {
+            "name": "Laurent Barthelemi",
+            "email": "laurent.barthelemi@brabhold.be",
+            "role": "Maintainer"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "drupal/bootstrap5": "^4.0"
+    }
+}
